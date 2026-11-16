@@ -1,0 +1,16 @@
+name: sonic_physics_dart
+description: Sonic Mania-style physics test in Dart / Flutter (mobile).
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: false
+  assets:
+    - assets/
